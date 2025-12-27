@@ -1,0 +1,16 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+flask-limiter>=3.5.0
+limits>=3.13.0
+
+twilio>=9.0.0
+
+requests>=2.31.0
+phonenumbers>=8.13.0
+dnspython>=2.4.0
+
+python-dotenv>=1.0.0  # if you use a .env file for keys
+
+# optional but useful during development / deployment
+gunicorn>=21.0.0
+
