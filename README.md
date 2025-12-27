@@ -105,6 +105,11 @@ python app.py
 ```
 
 ***
+## 📽️ Project Explanation Video
+
+A detailed walkthrough and explanation of the project is available in the video below:
+
+[Watch the Explanation Video](https://drive.google.com/file/d/1QH5Qs3dN6D3SIw7xJF_UL4yDNmpb2QIe/view?usp=drivesdk)
 
 ## 🏁 Impact
 
